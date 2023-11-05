@@ -4,7 +4,7 @@ import { Survey } from 'survey-react-ui';
 import { useCallback } from 'react';
 
 import 'survey-core/defaultV2.min.css';
-import { ButtonGroupItemModel } from 'survey-react';
+
 
 const ThreeDeminsionalLight = {
   "themeName": "threedimensional",
