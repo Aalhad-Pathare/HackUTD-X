@@ -1,2 +1,5 @@
 node_modules
 out
+*.tsx
+src/*.tsx
+pages/*.tsx
