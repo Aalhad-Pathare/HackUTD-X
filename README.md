@@ -50,7 +50,7 @@ yarn build-prod
 
 ### Contributions
 
-Contributed to by <a href="https://github.com/kelanwu17">Kelan Wu</a>, <a href="[https://github.com/kelanwu17](https://github.com/aayushpe)">Aayush Perecharla</a>,<a href="https://github.com/aalhad-pathare">Aalhad Pathare</a>
+Contributed to by <a href="https://github.com/kelanwu17">Kelan Wu</a>, <a href="https://github.com/aayushpe">Aayush Perecharla</a>, <a href="https://github.com/aalhad-pathare">Aalhad Pathare</a>
 
 ### License
 
